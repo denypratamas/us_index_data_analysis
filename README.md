@@ -54,6 +54,8 @@ All metrics are normalized to ensure fair comparison across mixed scales.
 The portfolio with the **best overall risk-return profile** (based on composite score) is:
 - **QQQ**: 57%
 - **SPY**: 43%
+
+
 This allocation provides a balanced exposure to both indices, optimizing for risk-adjusted returns.
 
 
